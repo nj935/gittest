@@ -1,3 +1,2 @@
-wlcome ... this is going to be broken
-YUI*&*
-watever?!
+welcome ...
+this is a fixed text file
